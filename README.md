@@ -1,4 +1,2 @@
 # WeatherBot🌦️
 
-Description: 
-- 
